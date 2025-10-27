@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-multipart
+langchain
+openai
+deepgram-sdk
+aiofiles
+requests
+fhirclient
+python-dotenv
+cryptography
+aioredis
+sqlalchemy
+psycopg2-binary

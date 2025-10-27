@@ -1,0 +1,37 @@
+[
+  {
+    "key": "chlamydia",
+    "label": {"fr": "Chlamydia", "en": "Chlamydia"},
+    "icd10ca": "A74.9",
+    "ccp": "CCP-CHLAM-01",
+    "keywords": {"fr": ["chlamydia", "chlamydie"], "en": ["chlamydia"]}
+  },
+  {
+    "key": "gonorrhea",
+    "label": {"fr": "Gonorrhée", "en": "Gonorrhea"},
+    "icd10ca": "A54.9",
+    "ccp": "CCP-GONO-01",
+    "keywords": {"fr": ["gonorrhée", "gonorrhee", "blennorragie"], "en": ["gonorrhea"]}
+  },
+  {
+    "key": "syphilis",
+    "label": {"fr": "Syphilis", "en": "Syphilis"},
+    "icd10ca": "A51.9",
+    "ccp": "CCP-SYPH-01",
+    "keywords": {"fr": ["syphilis"], "en": ["syphilis"]}
+  },
+  {
+    "key": "hiv",
+    "label": {"fr": "VIH", "en": "HIV"},
+    "icd10ca": "B20",
+    "ccp": "CCP-HIV-01",
+    "keywords": {"fr": ["vih", "virus de l'immunodéficience humaine"], "en": ["hiv", "human immunodeficiency virus"]}
+  },
+  {
+    "key": "prep",
+    "label": {"fr": "PrEP", "en": "PrEP"},
+    "icd10ca": "Z92.5",
+    "ccp": "CCP-PREP-01",
+    "keywords": {"fr": ["prep", "pré-exposition", "prophylaxie"], "en": ["prep", "pre-exposure", "prophylaxis"]}
+  }
+]

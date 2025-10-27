@@ -1,0 +1,12 @@
+# .env.example — remplir pour dev
+AURASCRIBE_API_KEY=changeme
+OPENAI_API_KEY=changeme
+DEEPGRAM_API_KEY=changeme
+OIDC_ISSUER=https://your-idp.example
+OIDC_CLIENT_ID=aura-client
+OIDC_PUBLIC_KEY= # Public key or jwks url
+FHIR_BASE_URL=https://your-fhir.example
+FHIR_BEARER_TOKEN=
+REDIS_URL=redis://redis:6379/0
+TRANSCRIPT_TTL=300
+DATABASE_URL=postgresql://postgres:example@postgres:5432/aura

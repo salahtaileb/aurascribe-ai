@@ -1,0 +1,36 @@
+[
+  {
+    "code": "CHLAM",
+    "label": {"fr": "Chlamydia", "en": "Chlamydia"},
+    "keywords": {
+      "fr": ["chlamydia", "chlamydie"],
+      "en": ["chlamydia"]
+    }
+  },
+  {
+    "code": "GONO",
+    "label": {"fr": "Gonorrhée", "en": "Gonorrhea"},
+    "keywords": {
+      "fr": ["gonorrhée", "gonorrhee", "blennorragie"],
+      "en": ["gonorrhea"]
+    }
+  },
+  {
+    "code": "SYPH",
+    "label": {"fr": "Syphilis", "en": "Syphilis"},
+    "keywords": {
+      "fr": ["syphilis"],
+      "en": ["syphilis"]
+    }
+  },
+  {
+    "code": "HIV",
+    "label": {"fr": "VIH", "en": "HIV"},
+    "keywords": {
+      "fr": ["vih", "virus de l'immunodéficience humaine"],
+      "en": ["hiv", "human immunodeficiency virus"]
+    }
+  }
+  /* NOTE: Ceci est un échantillon. En production, charger la liste complète officielle MADO depuis la source
+     https://msss.gouv.qc.ca/... et tenir à jour. */
+]

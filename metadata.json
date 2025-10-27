@@ -1,0 +1,5 @@
+
+{
+  "name": "AuraScribe",
+  "description": "An AI-powered medical scribe system designed for Québec healthcare professionals. It listens to patient-clinician conversations and automatically generates structured clinical notes, integrating with EMR systems via FHIR R4."
+}

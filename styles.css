@@ -1,0 +1,54 @@
+.recorder {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 12px;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.recorder-controls {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.recorder-actions {
+  display: flex;
+  gap: 8px;
+}
+
+button.record {
+  background: #d9534f;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+}
+
+button.stop {
+  background: #5cb85c;
+  color: white;
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: none;
+}
+
+/* Consent modal styling */
+.consent-modal {
+  background: white;
+  padding: 16px;
+  border-radius: 8px;
+  width: min(720px, 92%);
+  margin: 16px auto;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+}
+.consent-actions { display:flex; gap:8px; justify-content:flex-end; }
+.primary { background:#007bff; color:white; padding:8px 12px; border-radius:6px; border:none; }
+.secondary { background:#6c757d; color:white; padding:8px 12px; border-radius:6px; border:none; }
+.tertiary { background:transparent; color:#333; padding:8px 12px; border-radius:6px; border:1px solid #ddd; }
+@media (max-width: 600px) {
+  .consent-modal { padding: 12px; }
+  .recorder { padding: 8px; }
+}
