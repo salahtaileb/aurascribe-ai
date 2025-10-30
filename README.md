@@ -1,6 +1,8 @@
-```markdown
-```markdown
 # AuraScribe — Phase 1 (MVP) — Français par défaut / French by default
+
+> **✅ CONFIRMATION**: This is the demo project created on **October 27, 2025 (afternoon at 18:14 EDT)**
+> 
+> For detailed project information, see [PROJECT_INFO.md](./PROJECT_INFO.md)
 
 But: Ce dépôt contient un scaffold MVP pour AuraScribe — un scribe médical AI bilingue (FR/EN) pour la santé sexuelle au Québec.
 Le français est la langue par défaut de l'interface et des prompts.
