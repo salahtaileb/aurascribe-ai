@@ -1,5 +1,13 @@
 
 {
   "name": "AuraScribe",
-  "description": "An AI-powered medical scribe system designed for Québec healthcare professionals. It listens to patient-clinician conversations and automatically generates structured clinical notes, integrating with EMR systems via FHIR R4."
+  "version": "1.0.0-demo",
+  "type": "demo/mvp",
+  "created": "2025-10-27T18:14:22-04:00",
+  "created_description": "Demo project created afternoon of October 27, 2025",
+  "description": "An AI-powered medical scribe system designed for Québec healthcare professionals. It listens to patient-clinician conversations and automatically generates structured clinical notes, integrating with EMR systems via FHIR R4.",
+  "primary_language": "fr",
+  "target_region": "Quebec, Canada",
+  "status": "demo",
+  "compliance": ["MADO", "RAMQ", "PHI-protected"]
 }
